@@ -22,7 +22,7 @@ h1 {
 }
 
 .preview {
-  display: inline;
+  display: inline-block;
   height: 300px;
   width: 100%;
 }
